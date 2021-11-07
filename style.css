@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* section-1 */
+.text-color{
+    color: orange;
+}
+#header-area{
+     display: flex;
+}
+.header-area-part{
+        width: 50%;
+        padding-left: 5%;
+}
+.header-area-part img{
+    width: 100%;
+}
+h1{
+    font-size: 100px;
+}
+.link-color{
+    color: white;
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image:linear-gradient(180deg, red,tomato);
+      border-radius: 10px;
+}
