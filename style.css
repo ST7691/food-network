@@ -25,3 +25,20 @@ h1{
     background-image:linear-gradient(180deg, red,tomato);
       border-radius: 10px;
 }
+/* section-2 */
+#about-area{
+      display: flex;
+      background-image: url(background-img/pic1.jpg);
+      background-repeat: no repeat;  
+}
+.about-area-part{
+      width: 50%;
+      padding-left: 5%;
+}
+.about-area-part img{
+    width: 40%;
+    padding-left: 40%;
+}
+h2{
+    font-size: 100px;
+}
