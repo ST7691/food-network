@@ -1,7 +1,11 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
+    padding:5%;
+
 }
+
+
 /* section-1 */
 .text-color{
     color: orange;
@@ -26,6 +30,8 @@ h1{
     background-image:linear-gradient(180deg, red,tomato);
       border-radius: 10px;
 }
+
+
 /* section-2 */
 #about-area{
       display: flex;
@@ -43,6 +49,8 @@ h1{
 h2{
     font-size: 100px;
 }
+
+
 /* section-3 */
 #Recipies-area{
     padding: 5%;
@@ -63,7 +71,7 @@ h2{
     padding: 5%;     
 }
 .Recipies-area-part p{
-    width: 50%;
+    width: 80%;
     padding: 5%;
  
 }
@@ -73,11 +81,13 @@ h2{
 }
 #Recipies-area h2{
     text-align: center;
-    font-size: 40px;
+    
 }
 .text-size{
     text-align: center;
 }
+
+
 /* sction-4 */
 #following{
     padding: 5%;
@@ -94,11 +104,13 @@ h2{
     width: 100%;  
    
 }
+
+
 /* part-5 */
 footer{
     background-color:black;
-    width: 100%;
-    height: 100%;
+    width: 90%;
+ 
     padding: 5%;
 }
 footer p{
